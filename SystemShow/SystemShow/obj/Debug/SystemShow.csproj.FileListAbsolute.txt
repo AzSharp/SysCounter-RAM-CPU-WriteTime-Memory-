@@ -1,0 +1,13 @@
+c:\users\zyzz\documents\visual studio 2015\Projects\SystemShow\SystemShow\bin\Debug\SystemShow.exe.config
+c:\users\zyzz\documents\visual studio 2015\Projects\SystemShow\SystemShow\bin\Debug\SystemShow.exe
+c:\users\zyzz\documents\visual studio 2015\Projects\SystemShow\SystemShow\bin\Debug\SystemShow.pdb
+c:\users\zyzz\documents\visual studio 2015\Projects\SystemShow\SystemShow\bin\Debug\MetroFramework.Design.dll
+c:\users\zyzz\documents\visual studio 2015\Projects\SystemShow\SystemShow\bin\Debug\MetroFramework.dll
+c:\users\zyzz\documents\visual studio 2015\Projects\SystemShow\SystemShow\bin\Debug\MetroFramework.Fonts.dll
+c:\users\zyzz\documents\visual studio 2015\Projects\SystemShow\SystemShow\obj\Debug\SystemShow.csprojResolveAssemblyReference.cache
+c:\users\zyzz\documents\visual studio 2015\Projects\SystemShow\SystemShow\obj\Debug\SystemShow.Form1.resources
+c:\users\zyzz\documents\visual studio 2015\Projects\SystemShow\SystemShow\obj\Debug\SystemShow.Properties.Resources.resources
+c:\users\zyzz\documents\visual studio 2015\Projects\SystemShow\SystemShow\obj\Debug\SystemShow.csproj.GenerateResource.Cache
+c:\users\zyzz\documents\visual studio 2015\Projects\SystemShow\SystemShow\obj\Debug\SystemShow.exe
+c:\users\zyzz\documents\visual studio 2015\Projects\SystemShow\SystemShow\obj\Debug\SystemShow.pdb
+c:\users\zyzz\documents\visual studio 2015\Projects\SystemShow\SystemShow\bin\Debug\Bunifu_UI_v1.4.dll
